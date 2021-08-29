@@ -5,4 +5,4 @@
 Link to course: https://www.coursera.org/learn/applied-data-science-capstone/home/welcome
 
 
-**This folder contains notebooks, code files, and the final presentation as required for the peer-graded assignment to finish the IBM Data Science Professional Certificate.**
+**This folder contains notebooks, code files, and the final presentation as required for the peer-graded assignment to complete the IBM Data Science Professional Certificate.**
